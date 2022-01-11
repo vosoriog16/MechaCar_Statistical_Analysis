@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 # Purpose
-The goal of this challenge was to use R to discover which variables predict the MPG for vehicle prototypes, collect summary statistics on the PSI of suspension coils, determine if manufacturing lots are statistically different from the mean population, and finally design a study to compare the MechaCar performance against vehicles from other manufacturers.
+MechaCar is a new prototype used in AutoRUs, but is suffering from production conflicts. This challenge focuses on using R to review the production data by discovering which variables predict the MPG for vehicle prototypes and determining if manufacturing lots are statistically different from the mean population.
 
 # Linear Regression to Predict MPG
 
