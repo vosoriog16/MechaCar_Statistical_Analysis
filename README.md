@@ -36,13 +36,19 @@ Lot 3:
 ![L3](https://user-images.githubusercontent.com/88119288/149026090-c41b49d3-1a22-47c5-9d0d-d86664cf4291.PNG)
  
 Lot 1 T-test shows that they are not statistically different from the population mean, and the p-value (1) is not low enough to reject the null hypothesis.
+
 Lot 2 T-test shows that they are not statistically different from the population mean, and the p-value (.607) is not low enough to reject the null hypothesis.
+
 Lot 3 T-test shows that they are slightly statistically different from the population mean, with a low p-value (0.0417) to reject the null hypothesis.
 
 # Study Design: Mechacar vs Competition
 
 Metrics: I would design a statistical study to analyze the performance of MechaCar's mpg against the competition.
+
 Null Hypothesis: MechaCar vehicles do not have statistically significant higher safety ratings in comparison to other vehicles.
+
 Alternate Hypothesis: MechaCar vehicles do have statistically significant higher safety ratings than other vehicles.
+
 Statistical Test:I would use a two-sample T-test to for this analysis since that allows us to test the relationship in both directions.
+
 Data: For the analysis, the data needed to run the statistical test would be prices of competing vehicles as well as their safety ratings for a better comparison.
